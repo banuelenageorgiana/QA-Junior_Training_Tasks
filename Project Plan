@@ -1,0 +1,57 @@
+Project Plan – Testing Platform peviitor.ro (for Future Testers)
+1. Objectives
+Perform functional and non-functional testing of the platforms peviitor.ro and AOC
+Create checklists based on test case titles
+Identify and report bugs
+Write and execute test cases
+Improve testing knowledge and skills of volunteers
+Increase the overall quality of the platform
+Enhance the user experience (UX)
+2. Tools
+- GitHub :
+Repository: Testing HUB
+Task Management: GitHub Issues + Projects + Sprints
+Roadmap tracking
+.md files for:
+Internal documentation
+Testing theory or links to theory (e.g., from Notion)
+Video Hosting
+YouTube
+Google Drive
+NotebookLM
+Communication (optional)
+Discord
+3. Repository Structure
+testing-hub/
+│
+├── README.md                # Project overview and purpose
+│
+├── docs/
+│   ├── onboarding.md       # Tracks completed courses, goals, and current knowledge
+│   ├── how-to-test.md      # Testing guidelines
+│   ├── how-to-report-bug.md
+│   └── videos.md           # Learning resources (video links)
+│
+├── tasks/
+│   ├── exploratory-testing/
+│   │   ├── search-testing.md
+│   │   ├── filter-testing.md
+│   │   ├── footer-testing.md
+│   │   └── job-results-testing.md
+│
+│   ├── scraping/
+│   │   ├── scrapers-creating.md      # (Opencode)
+│   │   └── scrapers-testing.md
+│
+│   ├── validating/
+│   │   └── using-validator.md        # Publishes all jobs → stored in joblio.md
+│
+│   ├── test-cases/
+│   │   ├── creating-test-cases.md
+│   │   └── running-test-cases.md
+│
+│   └── bug-reporting.md
+│
+└── .github/
+    └── ISSUE_TEMPLATE/
+        └── bug_report.md
