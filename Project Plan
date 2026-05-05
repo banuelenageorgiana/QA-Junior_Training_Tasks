@@ -1,12 +1,15 @@
 Project Plan – Testing Platform peviitor.ro (for Future Testers)
+
+
 1. Objectives
-Perform functional and non-functional testing of the platforms peviitor.ro and AOC
-Create checklists based on test case titles
-Identify and report bugs
-Write and execute test cases
-Improve testing knowledge and skills of volunteers
-Increase the overall quality of the platform
-Enhance the user experience (UX)
+- Perform functional and non-functional testing of the platforms peviitor.ro and AOC
+- Create checklists based on test case titles
+- Identify and report bugs
+- Write and execute test cases
+- Improve testing knowledge and skills of volunteers
+- Increase the overall quality of the platform
+- Enhance the user experience (UX)
+
 2. Tools
 - GitHub :
 Repository: Testing HUB
@@ -16,11 +19,12 @@ Roadmap tracking
 Internal documentation
 Testing theory or links to theory (e.g., from Notion)
 Video Hosting
-YouTube
-Google Drive
-NotebookLM
-Communication (optional)
-Discord
+- YouTube
+- Google Drive
+- NotebookLM
+- Communication (optional) --> Discord
+
+
 3. Repository Structure
 testing-hub/
 │
@@ -28,6 +32,7 @@ testing-hub/
 │
 ├── docs/
 │   ├── onboarding.md       # Tracks completed courses, goals, and current knowledge
+    ___about our platforms  # presenting peviitor.ro platform
 │   ├── how-to-test.md      # Testing guidelines
 │   ├── how-to-report-bug.md
 │   └── videos.md           # Learning resources (video links)
