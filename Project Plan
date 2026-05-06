@@ -37,10 +37,11 @@ testing-hub/
 │   ├── how-to-report-bug.md
 │   └── videos.md           # Learning resources (video links)
 │
-├── tasks/
+├── tasks peviitor.ro /
 │   ├── exploratory-testing/
-│   │   ├── search-testing.md
-│   │   ├── filter-testing.md
+│   │   ├── search bar-testing.md
+│   │   ├── city filter home page-testing.md
+        - 
 │   │   ├── footer-testing.md
 │   │   └── job-results-testing.md
 │
