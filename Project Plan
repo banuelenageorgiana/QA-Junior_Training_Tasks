@@ -27,37 +27,36 @@ Video Hosting
 
 3. Repository Structure
 testing-hub/
-│
-├── README.md                # Project overview and purpose
-│
-├── docs/
-│   ├── onboarding.md       # Tracks completed courses, goals, and current knowledge
-    ___about our platforms  # presenting peviitor.ro platform
-│   ├── how-to-test.md      # Testing guidelines
-│   ├── how-to-report-bug.md
-│   └── videos.md           # Learning resources (video links)
-│
-├── tasks peviitor.ro /
-│   ├── exploratory-testing/
-│   │   ├── search bar-testing.md
-│   │   ├── city filter home page-testing.md
+
+- README.md                # Project overview and purpose
+
+- docs/
+    - onboarding.md       # Tracks completed courses, goals, and current knowledge
+    - about our platforms  # presenting peviitor.ro platform
+    - how-to-test.md      # Testing guidelines
+    -  how-to-report-bug.md
+    - videos.md           # Learning resources (video links)
+
+- tasks peviitor.ro /
+        - exploratory-testing/
+        - search bar-testing.md
+        - city filter home page-testing.md
         - 
-│   │   ├── footer-testing.md
-│   │   └── job-results-testing.md
-│
-│   ├── scraping/
-│   │   ├── scrapers-creating.md      # (Opencode)
-│   │   └── scrapers-testing.md
-│
-│   ├── validating/
-│   │   └── using-validator.md        # Publishes all jobs → stored in joblio.md
-│
-│   ├── test-cases/
-│   │   ├── creating-test-cases.md
-│   │   └── running-test-cases.md
-│
-│   └── bug-reporting.md
-│
-└── .github/
-    └── ISSUE_TEMPLATE/
-        └── bug_report.md
+        - footer-testing.md
+        - job-results-testing.md
+
+        scraping/
+         ─ scrapers-creating.md      # (Opencode)
+         - scrapers-testing.md
+
+        validating/
+          - using-validator.md        # Publishes all jobs → stored in joblio.md
+
+        test-cases/
+           - creating-test-cases.md
+           - running-test-cases.md
+
+       bug-reporting.md
+
+- templates:
+         - bug_report.md
