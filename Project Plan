@@ -41,7 +41,9 @@ testing-hub/
         - exploratory-testing/
         - search bar-testing.md
         - city filter home page-testing.md
-        - 
+        - filters main page.md
+        - comapny page redirect
+        - company-specified job listings page
         - footer-testing.md
         - job-results-testing.md
 
