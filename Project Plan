@@ -46,7 +46,11 @@ testing-hub/
         - company-specified job listings page
         - footer-testing.md
         - job-results-testing.md
-
+ 
+- tasks Association site /
+       - header section
+       - "Cum poti tu ajuta?" section
+     
         scraping/
          ─ scrapers-creating.md      # (Opencode)
          - scrapers-testing.md
