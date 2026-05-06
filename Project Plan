@@ -2,7 +2,7 @@ Project Plan – Testing Platform peviitor.ro (for Future Testers)
 
 
 1. Objectives
-- Perform functional and non-functional testing of the platforms peviitor.ro and AOC
+- Perform functional and non-functional testing of the platforms peviitor.ro and Association site
 - Create checklists based on test case titles
 - Identify and report bugs
 - Write and execute test cases
@@ -12,8 +12,8 @@ Project Plan – Testing Platform peviitor.ro (for Future Testers)
 
 2. Tools
 - GitHub :
-Repository: Testing HUB
-Task Management: GitHub Issues + Projects + Sprints
+Repository: QA-Junior_Training_Tasks
+Scrum Sprint Management using GitHub
 Roadmap tracking
 .md files for:
 Internal documentation
@@ -65,4 +65,5 @@ testing-hub/
        bug-reporting.md
 
 - templates:
+         - test case_report.md
          - bug_report.md
