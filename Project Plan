@@ -39,10 +39,11 @@ testing-hub/
 
 - tasks peviitor.ro /
         - exploratory-testing/
+        - cross browser testing(Chrome,Firefox,Edge,Safari)
         - search bar-testing.md
         - city filter home page-testing.md
         - filters main page.md
-        - comapny page redirect
+        - company page redirect
         - company-specified job listings page
         - footer-testing.md
         - job-results-testing.md
@@ -50,7 +51,10 @@ testing-hub/
 - tasks Association site /
        - header section
        - "Cum poti tu ajuta?" section
-     
+       - "Misiunea noastra"-section
+       - "Echipa "-section
+       
+
         scraping/
          ─ scrapers-creating.md      # (Opencode)
          - scrapers-testing.md
