@@ -1,1 +1,1 @@
-https://carmensteliana.github.io/functional_testing_theory/
+https://carmensteliana.github.io/functional_testing_training/
