@@ -22,6 +22,7 @@ Video Hosting
 - YouTube
 - Google Drive
 - NotebookLM
+- Gemini
 - Communication (optional) --> Discord
 
 
@@ -50,9 +51,13 @@ testing-hub/
  
 - tasks Association site /
        - header section
+       - " Intalniri saptamanale" - section
+       - main page (Asociatia oportunitati si Cariere, Obiectivul nostru, "Cum poti ajuta?", features banner)
        - "Cum poti tu ajuta?" section
        - "Misiunea noastra"-section
        - "Echipa "-section
+       - " Povesti de succes" - section
+       - Footer section
        
 
         scraping/
