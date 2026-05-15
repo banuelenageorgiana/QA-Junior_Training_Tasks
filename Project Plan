@@ -41,13 +41,14 @@ testing-hub/
 - tasks peviitor.ro /
         - exploratory-testing/
         - cross browser testing(Chrome,Firefox,Edge,Safari)
-        - search bar-testing.md
-        - city filter home page-testing.md
-        - filters main page.md
+        - search bar-testing
+        - city filter home page-testing
+        - filters main page
         - company page redirect
         - company-specified job listings page
-        - footer-testing.md
-        - job-results-testing.md
+        - footer-testing
+        - job-results-testing
+        
  
 - tasks Association site /
        - header section
