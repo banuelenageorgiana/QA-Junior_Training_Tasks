@@ -1,14 +1,14 @@
 Hai sa ne cunoastem mai intai ! 
 
-Inainte de a incepe parcursul invatarii si taskurilor din lumea testarii, vom lasa un link in care se gasesc informatiile despre noi. 
-
+Inainte de a incepe parcursul invatarii si taskurilor din lumea testarii, vom lasa doua linbkuri  in care se gasesc informatiile despre noi. 
+  https://peviitor-ro.github.io/cuvant/bun-venit/
 https://onboarding.peviitor.ro/
 
 Asadar, principalele websiteuri sunt: 
 - https://oportunitatisicariere.ro/
 - https://peviitor.ro/
 
-Asadar, peviitor.ro  este un motor de căutare pentru locuri de muncă din România. Platforma agregă anunțuri de joburi de pe site-urile companiilor și le actualizează automat, folosind web scraping și un motor de căutare bazat pe Apache Solr.
+Peviitor.ro  este un motor de căutare pentru locuri de muncă din România. Platforma agregă anunțuri de joburi de pe site-urile companiilor și le actualizează automat, folosind web scraping și un motor de căutare bazat pe Apache Solr.
 
 Câteva lucruri care îl diferențiază:
 
