@@ -1,0 +1,33 @@
+Template generic
+
+Câmp	Descriere
+Test Case ID	Identificator unic (TC-001, TC-002 etc.)
+Titlu	Descriere scurtă a testului
+Modul/Feature	Funcționalitatea testată
+Prioritate	Low / Medium / High
+Severitate	Low / Medium / High / Critical
+Precondiții	Ce trebuie să existe înainte de test
+Date de test	Valorile folosite în test
+Pași	Pașii de executare
+Rezultat așteptat	Comportamentul corect al aplicației
+Rezultat obținut	Ce s-a întâmplat în realitate
+Status	Pass / Fail / Blocked / Not Executed
+
+
+
+
+Test Case ID	: 
+Titlu	       : 
+Modul / Feature	 : 
+Prioritate	: 
+Severitate	:
+Precondiții	:
+Date de test	:
+Pași de executare 
+1.
+2.
+3.
+4.
+5.
+Rezultat așteptat	:
+Rezultat obținut	:
