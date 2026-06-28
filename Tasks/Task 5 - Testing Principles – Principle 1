@@ -6,11 +6,12 @@ Task: Test the job search functionality on peviitor.ro.
 Steps:
 
 - Open the peviitor.ro homepage.
+
 - Enter different search inputs:
-- A valid keyword (e.g., "Java").
-- A non-existing keyword (e.g., "xyz123").
-- Special characters (@#$%^).
-- A very long input (over 200 characters).
+- A valid keyword
+- A non-existing keyword
+- Special characters
+- A very long input
 - Leave the search field empty.
 - Record any unexpected behavior, such as incorrect results, error messages, crashes, or UI issues.
 
