@@ -1,0 +1,28 @@
+1. Task 1 – Scrierea unei User Story
+
+Cerință:
+
+Imaginați-vă că faceți parte din echipa care dezvoltă site-ul peviitor.ro. Scrieți o User Story pentru o funcționalitate nouă, folosind formatul:
+„Ca [tip de utilizator], vreau [funcționalitate], astfel încât [beneficiu].”
+
+Deschide un issue in repozitoriul forkuit si scrie rezolvarea taskului
+
+2.Task 2 – Planificarea unui Sprint
+
+Cerință:
+
+Aveți următoarele cerințe:
+
+adăugarea unui filtru după oraș;
+repararea unui bug la căutarea joburilor;
+îmbunătățirea vitezei de încărcare a paginii;
+schimbarea culorii butonului „Aplică”.
+
+Decide :
+
+care task-uri intră în sprint;
+care au prioritate;
+estimați fiecare task folosind Story Points (1, 2, 3, 5 sau 8).
+
+Aceste două exerciții îi fac pe participanți să aplice direct conceptele Agile: User Stories, prioritizare, Sprint Planning și estimare.
+
