@@ -1,1 +1,1 @@
-[[https://github.com/Lore78/Theory](https://github.com/Lore78/Theory)](https://github.com/Lore78/Theory/blob/main/Testing%20Strategy.html)
+https://github.com/Lore78/Testing-Strategy/blob/main/index.html.html
