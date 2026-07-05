@@ -1,1 +1,1 @@
-file:///C:/Users/Pelle/Desktop/Stressul%20Anei.html
+[https://github.com/Lore78/Theory](https://github.com/Lore78/Theory)
