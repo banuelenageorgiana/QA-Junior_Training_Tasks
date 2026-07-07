@@ -1,0 +1,67 @@
+1.Exercițiu: Aplicarea modelului Waterfall
+
+Cerință:
+
+Imaginați-vă că o școală dorește să dezvolte o aplicație pentru gestionarea împrumuturilor de cărți din bibliotecă. Folosind modelul Waterfall, descrieți ce activități se desfășoară în fiecare etapă.
+
+Completați tabelul de mai jos:
+
+Etapa Waterfall	                                                            Ce se realizează în această etapă?
+1. Analiza cerințelor	
+2. Proiectarea sistemului	
+3. Implementarea	
+4. Testarea	
+5. Implementarea în utilizare (Deployment)	
+6. Mentenanța	
+
+Întrebări suplimentare: 
+De ce este important ca fiecare etapă să fie finalizată înainte de a trece la următoarea?
+Ce probleme pot apărea dacă utilizatorii își schimbă cerințele după începerea implementării?
+Pentru ce tipuri de proiecte considerați că modelul Waterfall este potrivit?
+
+Exemplu de răspuns:
+Analiza cerințelor: Se stabilește ce funcții trebuie să aibă aplicația (căutare cărți, împrumut, retur, autentificare etc.).
+Proiectarea: Se realizează diagrama bazei de date și interfața aplicației.
+Implementarea: Programatorii dezvoltă aplicația conform proiectului.
+Testarea: Se verifică dacă toate funcțiile funcționează corect și se elimină erorile.
+Deployment: Aplicația este instalată și utilizată în biblioteca școlii.
+Mentenanța: Se corectează erorile descoperite ulterior și se adaugă actualizări.
+
+2. Exercițiu: Waterfall vs. Agile
+
+Cerință:
+
+O școală dorește să dezvolte o aplicație pentru gestionarea temelor elevilor. Pe parcursul dezvoltării, profesorii solicită noi funcționalități, precum:
+
+notificări pentru elevi;
+încărcarea fișierelor;
+calendar cu termenele limită.
+
+Analizați cum ar evolua proiectul dacă ar fi dezvoltat folosind Waterfall și apoi Agile.
+
+Completați tabelul:
+
+Situație	                                                                                                               Waterfall	                       Agile
+Cerințele sunt stabilite la început		
+Apar cerințe noi în timpul dezvoltării		
+Livrarea aplicației		
+Feedback-ul utilizatorilor		
+Modificarea funcționalităților		
+Întrebări de reflecție
+În ce metodologie utilizatorii pot vedea mai repede o versiune funcțională a aplicației?
+Care metodologie se adaptează mai ușor la schimbări? De ce?
+Pentru un proiect cu cerințe foarte clare și stabile, ce metodologie ați alege? Argumentați.
+Pentru o aplicație nouă, ale cărei cerințe se pot schimba frecvent, ce metodologie considerați mai potrivită?
+
+Exemplu de răspuns
+Situație	                                                                    Waterfall	                                                     Agile
+Cerințele sunt stabilite la început	                          Toate cerințele sunt definite înainte de dezvoltare.	          Există o listă inițială de cerințe, care poate fi modificată pe parcurs.
+Apar cerințe noi	                                            Schimbările sunt dificil și costisitor de implementat.        	Cerințele noi sunt incluse în următoarele iterații (sprinturi).
+Livrarea aplicației	                                          Se face o singură dată, la finalul proiectului.	                Se livrează versiuni funcționale după fiecare sprint.
+Feedback-ul utilizatorilor	                                  Este primit în principal la final.	                            Este colectat constant și influențează dezvoltarea.
+Modificarea funcționalităților	                              Necesită reluarea unor etape ale proiectului.	                  Se realizează ușor între sprinturi.
+
+Concluzie:
+
+Waterfall este potrivit pentru proiecte cu cerințe bine definite și puține schimbări.
+Agile este recomandat pentru proiecte dinamice, unde cerințele se pot modifica și este important feedback-ul continuu al utilizatorilor.
