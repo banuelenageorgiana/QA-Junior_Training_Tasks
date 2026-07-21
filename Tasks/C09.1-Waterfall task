@@ -1,0 +1,40 @@
+| Etapa Waterfall                                | Ce se realizează în această etapă?                                                                                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Analiza cerințelor**                      | Se discută cu utilizatorii și se stabilesc toate funcționalitățile aplicației, cum ar fi căutarea cărților, împrumutul, returul și autentificarea utilizatorilor. |
+| **2. Proiectarea sistemului**                  | Se creează arhitectura aplicației, baza de date, interfața și modul în care componentele vor comunica între ele.                                                  |
+| **3. Implementarea**                           | Programatorii dezvoltă aplicația conform cerințelor și proiectării realizate anterior.                                                                            |
+| **4. Testarea**                                | Testerii verifică dacă aplicația funcționează corect, identifică bug-uri și confirmă că toate cerințele sunt îndeplinite.                                         |
+| **5. Implementarea în utilizare (Deployment)** | Aplicația este instalată și pusă la dispoziția utilizatorilor din biblioteca școlii.                                                                              |
+| **6. Mentenanța**                              | Se corectează erorile descoperite după lansare și se fac actualizări sau îmbunătățiri atunci când este nevoie.                                                    |
+
+1. De ce este important ca fiecare etapă să fie finalizată înainte de a trece la următoarea?
+Pentru că fiecare etapă se bazează pe rezultatele celei anterioare. Dacă o etapă nu este finalizată corect, pot apărea erori și costuri suplimentare în etapele următoare.
+
+2. Ce probleme pot apărea dacă utilizatorii își schimbă cerințele după începerea implementării?
+-este nevoie de modificarea codului deja dezvoltat;
+-proiectul poate întârzia;
+-costurile cresc;
+-unele etape trebuie refăcute.
+
+3. Pentru ce tipuri de proiecte considerați că modelul Waterfall este potrivit?
+Modelul Waterfall este potrivit pentru proiecte cu cerințe clare și stabile, unde schimbările sunt puține, de exemplu sisteme bancare.
+
+| Situație                                   | Waterfall                                                      | Agile                                                                           |
+| ------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Cerințele sunt stabilite la început**    | Toate cerințele sunt definite înainte de dezvoltare.           | Există o listă inițială de cerințe, dar aceasta poate fi modificată pe parcurs. |
+| **Apar cerințe noi în timpul dezvoltării** | Schimbările sunt dificil și costisitor de implementat.         | Cerințele noi sunt adăugate în următoarele sprinturi.                           |
+| **Livrarea aplicației**                    | Aplicația este livrată o singură dată, la finalul proiectului. | Se livrează versiuni funcționale după fiecare sprint.                           |
+| **Feedback-ul utilizatorilor**             | Este primit în principal la finalul proiectului.               | Este primit constant și este folosit pentru îmbunătățirea aplicației.           |
+| **Modificarea funcționalităților**         | Necesită reluarea unor etape și consumă timp.                  | Se poate face ușor între sprinturi.                                             |
+
+1. În ce metodologie utilizatorii pot vedea mai repede o versiune funcțională a aplicației?
+În Agile, deoarece după fiecare sprint este livrată o versiune funcțională a aplicației.
+
+2. Care metodologie se adaptează mai ușor la schimbări? De ce?
+Agile, deoarece dezvoltarea se face în sprinturi, iar cerințele noi pot fi introduse între acestea fără a afecta întregul proiect.
+
+3. Pentru un proiect cu cerințe foarte clare și stabile, ce metodologie ați alege? Argumentați.
+Aș alege Waterfall, deoarece toate cerințele sunt cunoscute de la început, iar proiectul poate fi planificat și dezvoltat pas cu pas.
+
+4. Pentru o aplicație nouă, ale cărei cerințe se pot schimba frecvent, ce metodologie considerați mai potrivită?
+Aș alege Agile, deoarece permite adaptarea rapidă la schimbările cerute de utilizatori și oferă feedback continuu pe parcursul dezvoltării.
