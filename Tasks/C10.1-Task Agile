@@ -1,0 +1,43 @@
+1. Add city filter
+Prioritate:
+High
+Story Points:
+5
+Este o funcționalitate nouă și destul de complexă.
+
+2. Fix search bug
+Prioritate:
+Highest
+Story Points:
+3
+Dacă utilizatorii nu pot căuta corect joburi, funcționalitatea principală este afectată.
+
+3. Improve page loading speed
+Prioritate:
+Medium
+Story Points:
+5
+Necesită optimizări tehnice.
+
+4. Change Apply button color
+Prioritate:
+Low
+Story Points:
+1
+Foarte ușor de implementat și nu afectează funcționalitatea.
+
+Tabelul final
+Task	                      Priority	Story Points
+Fix job search bug	        Highest	  3
+Add city filter           	High    	5
+Improve page loading speed	Medium	  5
+Change "Apply" button color	Low	      1
+
+Aș include toate cele patru task-uri, deoarece totalul este 14 Story Points (3 + 5 + 5 + 1), o valoare rezonabilă pentru un sprint dacă echipa are această capacitate.
+
+Dacă echipa ar avea o capacitate mai mică, aș prioritiza astfel:
+
+✅ Fix job search bug
+✅ Add city filter
+✅ Improve page loading speed
+⏳ Change "Apply" button color (poate fi amânat)
